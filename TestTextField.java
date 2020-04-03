@@ -1,5 +1,4 @@
-// Fig. 12.10: TextFieldTest.java
-// Testing TextFieldFrame.
+
 import javax.swing.JFrame;
 public class TestTextField
 {
